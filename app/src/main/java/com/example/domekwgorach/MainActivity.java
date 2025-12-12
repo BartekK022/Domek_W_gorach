@@ -15,8 +15,10 @@ public class MainActivity extends AppCompatActivity {
     int i = 0;
     public void Polub() {
         i++;
+
+
     }
-    public void  usun() {
+    public void  Usun() {
         if(i <= 0) {
         } else {
             i--;

@@ -73,7 +73,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="0 polubień"
-            android:textAlignment="center"
+            android:textAlignment="textEnd"
             android:textSize="14dp"/>
 
 
